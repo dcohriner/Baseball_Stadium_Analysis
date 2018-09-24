@@ -11,16 +11,16 @@
 ## Purpose:
 To find out why baseball is on the decline and what factors affect attendance the most. This analysis will help us determine what strategies we can use to increase attendance while increasing revenue. 
 
-### Data Clean Up - Roger
+### Data Clean Up 
     * MySQL
     ** Data cleaning / munging
     * Data conversion and translation tables
-### Data Visualization / Dashboards - Brittney & Elliott
+### Data Visualization / Dashboards 
     * Leaflet JS
     * Plotly
     * Matplotlib
     * D3?
-### Machine Learning Models - Alex (Linear Regression) and Daniel (Random Forest)
+### Machine Learning Models (Linear Regression and Random Forest)
     Model Features
         * # Game of Season
         * Opponent
@@ -32,9 +32,6 @@ To find out why baseball is on the decline and what factors affect attendance th
         * Temperature
         * Win Percentage 
         
-## Find us on LinkedIn!
-* Alex- www.linkedin.com/in/alex-matthiessen
-* Brittney-https://www.linkedin.com/in/brittney-magsino-b0588216/
+## Find me on LinkedIn!
 * Daniel- https://www.linkedin.com/in/danielohriner/
-* Elliot- www.linkedin.com/in/elliott-jackson-5224045a
-* Roger- https://www.linkedin.com/in/roger-tran-80a2091a/
+
